@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
+  <title id="title">One-Year Process Map</title>
+  <desc id="desc">A five-stage process from research to beta launch for a remote lesson platform.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbfcff"/>
+      <stop offset="100%" stop-color="#eef3fb"/>
+    </linearGradient>
+    <filter id="shadow2" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#55708d" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="760" rx="36" fill="url(#bg2)"/>
+  <text x="70" y="88" fill="#1d1d1f" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">
+    Step-by-Step Process Map
+  </text>
+  <text x="70" y="126" fill="#607080" font-family="Arial, Helvetica, sans-serif" font-size="22">
+    The project grows through five linked stages instead of trying to launch a full business at once
+  </text>
+
+  <g filter="url(#shadow2)" font-family="Arial, Helvetica, sans-serif">
+    <rect x="70" y="180" width="230" height="170" rx="28" fill="#ffffff"/>
+    <rect x="335" y="180" width="230" height="170" rx="28" fill="#ffffff"/>
+    <rect x="600" y="180" width="230" height="170" rx="28" fill="#ffffff"/>
+    <rect x="865" y="180" width="230" height="170" rx="28" fill="#ffffff"/>
+    <rect x="1130" y="180" width="200" height="170" rx="28" fill="#ffffff"/>
+
+    <text x="100" y="228" fill="#0a84ff" font-size="18" font-weight="700">Stage 1</text>
+    <text x="100" y="262" fill="#1d1d1f" font-size="26" font-weight="700">Research</text>
+    <text x="100" y="296" fill="#4e5d6c" font-size="20">Find the real lesson pain points</text>
+    <text x="100" y="326" fill="#4e5d6c" font-size="20">Interview target users</text>
+
+    <text x="365" y="228" fill="#0a84ff" font-size="18" font-weight="700">Stage 2</text>
+    <text x="365" y="262" fill="#1d1d1f" font-size="26" font-weight="700">Prototype</text>
+    <text x="365" y="296" fill="#4e5d6c" font-size="20">Build the audio core</text>
+    <text x="365" y="326" fill="#4e5d6c" font-size="20">Compare against speech tools</text>
+
+    <text x="630" y="228" fill="#0a84ff" font-size="18" font-weight="700">Stage 3</text>
+    <text x="630" y="262" fill="#1d1d1f" font-size="26" font-weight="700">Lesson Room</text>
+    <text x="630" y="296" fill="#4e5d6c" font-size="20">Add real-time teacher/student flow</text>
+    <text x="630" y="326" fill="#4e5d6c" font-size="20">Make it usable in practice</text>
+
+    <text x="895" y="228" fill="#0a84ff" font-size="18" font-weight="700">Stage 4</text>
+    <text x="895" y="262" fill="#1d1d1f" font-size="26" font-weight="700">Pilot</text>
+    <text x="895" y="296" fill="#4e5d6c" font-size="20">Test with real teachers</text>
+    <text x="895" y="326" fill="#4e5d6c" font-size="20">Collect usability and audio feedback</text>
+
+    <text x="1160" y="228" fill="#0a84ff" font-size="18" font-weight="700">Stage 5</text>
+    <text x="1160" y="262" fill="#1d1d1f" font-size="26" font-weight="700">Beta</text>
+    <text x="1160" y="296" fill="#4e5d6c" font-size="20">Offer a small</text>
+    <text x="1160" y="326" fill="#4e5d6c" font-size="20">limited launch</text>
+  </g>
+
+  <g fill="none" stroke="#9ec8ff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 265 H335"/>
+    <path d="M565 265 H600"/>
+    <path d="M830 265 H865"/>
+    <path d="M1095 265 H1130"/>
+  </g>
+
+  <g filter="url(#shadow2)">
+    <rect x="90" y="430" width="1220" height="240" rx="30" fill="#ffffff"/>
+  </g>
+  <text x="125" y="485" fill="#1d1d1f" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">
+    Why this process makes sense
+  </text>
+  <text x="125" y="530" fill="#4e5d6c" font-family="Arial, Helvetica, sans-serif" font-size="22">
+    1. It reduces risk by validating the user problem before large-scale development.
+  </text>
+  <text x="125" y="566" fill="#4e5d6c" font-family="Arial, Helvetica, sans-serif" font-size="22">
+    2. It turns the audio research result into a usable lesson tool instead of leaving it as a lab demo.
+  </text>
+  <text x="125" y="602" fill="#4e5d6c" font-family="Arial, Helvetica, sans-serif" font-size="22">
+    3. It introduces real users before business expansion, so technical and product decisions are grounded.
+  </text>
+  <text x="125" y="638" fill="#4e5d6c" font-family="Arial, Helvetica, sans-serif" font-size="22">
+    4. It ends with a beta launch, which is ambitious but still realistic for a one-year plan.
+  </text>
+</svg>
